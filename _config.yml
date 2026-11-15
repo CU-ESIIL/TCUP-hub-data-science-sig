@@ -1,0 +1,5 @@
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+lang: en-US
+title: TCUP Hub Data Science SIG
+github_username: cu-esiil
+logo: "img/ESIIL_logo.png"
