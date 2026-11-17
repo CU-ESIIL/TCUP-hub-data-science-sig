@@ -59,8 +59,8 @@ In practice, ethical AI use means four things here:
 
 - A person reviewed and approved every file before it was published here. AI
   drafts were edited, corrected, or rejected as needed.
-- A human, Charles Jason Tinant, is responsible for the original page content.
-  Errors are mine, not the tools'.
+- A human (CJT) is responsible for the page content. Errors are my own, not
+  the tools'.
 - Agreement between AI tools was never treated as proof that something is
   correct.
 
