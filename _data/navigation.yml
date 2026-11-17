@@ -1,4 +1,6 @@
 main:
+  - title: '<i class="fab fa-github" aria-hidden="true"></i><span class="sr-only">GitHub repository</span>'
+    url: https://github.com/CU-ESIIL/TCUP-hub-data-science-sig
   - title: "Members"
     url: /#members
   - title: "Examples"
