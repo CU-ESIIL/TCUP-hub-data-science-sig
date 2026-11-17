@@ -19,7 +19,7 @@ describes AI use as a transformative tool that should demand our attentiveness.
 > A.I. deeply is to engage in a process, not just to push a button. It will
 > reshape us; it already is. We have to be attentive to how." ("I Saw Something
 > New in San Francisco," _New York Times_, March 29, 2026.)
-
+> 
 > Jaron Lanier's essay "There Is No A.I." reframes AI as a tool for human
 > social collaboration, built from the work of many people. Giving credit to
 > those sources is part of what he calls data dignity. Rather than eliminating
@@ -91,4 +91,4 @@ If you used AI tools to make something you contribute, say so in your pull
 request or join request: which tools, and what they did. You remain
 responsible for what you submit.
 
-Last updated: Nov 14, 2026.
+Last updated: Nov 16, 2026.
