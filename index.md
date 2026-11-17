@@ -27,7 +27,7 @@ Faculty and staff at Tribal Colleges and Universities and Native
 Hawaiian-serving institutions, and collaborators who came to a TCUP Hub data science workshop, or
 who want to join later.
 
-# Workshops
+## Workshops
 
 - [TCUP Hub & ESIIL Data Science Training 2026](https://cu-esiil-edu.github.io/2026-tcup-dsw-training/):
   syllabus, GitHub activities, and session materials from the November 2026
@@ -36,11 +36,6 @@ who want to join later.
 # Resources
 
 Tool notes are dated, because these tools change quickly.
-
-## Getting started
-
-- [TCUP Hub & ESIIL Data Science Training 2026](https://cu-esiil-edu.github.io/2026-tcup-dsw-training/) and
-  its GitHub activities
 
 ## Frontier model tools
 
