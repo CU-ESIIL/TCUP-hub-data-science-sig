@@ -1,6 +1,6 @@
 # AI use statement
 
-This statement gives my (C. Jason Tinant (CJT)) current position on AI, how AI tools were
+This statement gives C. Jason Tinant's (CJT's) current position on AI, how AI tools were
 used to make this repository, who is responsible for its content, and what is
 asked of contributors. It covers the landing page, the member list, and the example
 templates.
