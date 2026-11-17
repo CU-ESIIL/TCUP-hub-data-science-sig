@@ -1,0 +1,9 @@
+main:
+  - title: "Members"
+    url: /#members
+  - title: "Examples"
+    url: /examples/
+  - title: "AI use"
+    url: /AI_USE.html
+  - title: "Join"
+    url: https://github.com/CU-ESIIL/TCUP-hub-data-science-sig/issues/new?template=join-the-sig.md

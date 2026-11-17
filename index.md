@@ -1,5 +1,10 @@
 ---
 title: TCUP Hub Data Science SIG
+header:
+  overlay_color: "#159957"
+  actions:
+    - label: "Join the SIG"
+      url: "https://github.com/CU-ESIIL/TCUP-hub-data-science-sig/issues/new?template=join-the-sig.md"
 ---
 
 The TCUP Hub Data Science special interest group (SIG) is a home for Tribal
