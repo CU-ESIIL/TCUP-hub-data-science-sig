@@ -79,7 +79,7 @@ In practice, ethical AI use means four things here:
 - The templates are a starting point. Adapt the rules to your course,
   institution, and community, and to your students' privacy needs.
 - Sharing what is appropriate in an appropriate way builds community. See
-  [FAIR Principles](https://www.gofair.foundation/fair-principles
+  [FAIR Principles](https://www.gofair.foundation/fair-principles)
 - Follow your institution's policies and your community's data governance,
   including the [CARE Principles](https://www.gida-global.org/careprinciples)
   and [OCAP](https://fnigc.ca/ocap-training/), when you use AI tools with your
