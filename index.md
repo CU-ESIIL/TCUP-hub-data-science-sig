@@ -1,4 +1,6 @@
-# TCUP Hub Data Science SIG
+---
+title: TCUP Hub Data Science SIG
+---
 
 The TCUP Hub Data Science special interest group (SIG) is a home for Tribal
 College and Native Hawaiian-serving institution faculty who want to keep
