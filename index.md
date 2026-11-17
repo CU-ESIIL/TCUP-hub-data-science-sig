@@ -24,7 +24,7 @@ This SIG is supported by the National Science Foundation through the **TCUP Hub*
 # Who it's for
 
 Faculty and staff at Tribal Colleges and Universities and Native
-Hawaiian-serving institutions who came to a TCUP Hub data science workshop, or
+Hawaiian-serving institutions, and collaborators who came to a TCUP Hub data science workshop, or
 who want to join later.
 
 # Workshops
