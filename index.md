@@ -12,9 +12,9 @@ College and Native Hawaiian-serving institution faculty who want to keep
 building data science and AI skills after the workshop, sharing reusable
 examples and review practices while keeping people and communities in control.
 
-This SIG is supported by the National Science Foundation through the TCUP Hub,
-the Environmental Data Science Innovation and Impact Lab (**ESIIL**), and Oglala
-Lakota College's **Thokatakiya** project (**NSF Award # 2225573**).
+This SIG is supported by the National Science Foundation through the **TCUP Hub**
+(**NSF Award # 2437447**), the Environmental Data Science Innovation and Impact Lab
+(**ESIIL**), and Oglala Lakota College's **Thokatakiya** project (**NSF Award # 2225573**).
 
 # Who it's for
 
