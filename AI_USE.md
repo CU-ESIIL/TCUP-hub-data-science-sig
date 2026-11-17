@@ -1,12 +1,11 @@
 # AI use statement
 
-This statement gives C. Jason Tinant's (CJT's) current position on AI, how AI tools were
-used to make this repository, who is responsible for its content, and what is
-asked of contributors. It covers the landing page, the member list, and the example
-templates.
+This statement gives my current position on AI, how AI tools were used to make this
+repository, who is responsible for its content, and what is asked of contributors.
+It covers the landing page, the member list, and the example templates.
 
-Chiye Brian High Horse described ethical AI use simply as "wawókiya yo." Or, use AI
-to help others. Ethical AI use, for me, is grounded in lived community relationships. 
+Chiye Brian High Horse described ethical AI use as "wawókiya yo". Or use AI to help
+others. Ethical AI use, for me, is grounded in lived community relationships. 
 It should build voluntary networks that widen community through both traditional and
 emerging ways of engaging. It should also share benefit beyond the human species, as in
 the "AI for Sustainability" concept proposed by Esther Widiasih at the
